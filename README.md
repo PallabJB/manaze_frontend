@@ -21,17 +21,20 @@ Welcome to the **frontend** of **Manaze** — a modern task management web appli
 ## 🖼️ Screenshots
 
 ### 👤 Login Page  
-![Login](./assets/login.png)
+![Screenshot 2025-06-25 144907](https://github.com/user-attachments/assets/230906b8-c745-4dc1-93dd-2bed0926854d)
+
 
 ---
 
 ### 📝 Sign Up Page  
-![Signup](./assets/signup.png)
+![Screenshot 2025-06-25 144918](https://github.com/user-attachments/assets/25c18824-1f7f-4d04-bfb1-b0cd22c5764c)
+
 
 ---
 
 ### 📊 Admin Dashboard  
-![Dashboard](./assets/dashboard.png)
+![Screenshot 2025-06-25 145127](https://github.com/user-attachments/assets/b09c1562-d2e2-4318-8524-742abe4a0f83)
+
 
 ---
 
